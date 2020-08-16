@@ -1,1 +1,1 @@
-# AI Cheatsheets :heart:
+# :heart: AI Cheatsheets :heart:
